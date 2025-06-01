@@ -11,8 +11,8 @@
     },
     "devDependencies": {
         "@babel/preset-typescript": "^7.27.1",
-        "@myapp/tsconfig": "workspace:^",
-        "@myapp/ui": "workspace:^",
+        "@oka-app-ui/tsconfig": "workspace:^",
+        "@oka-app-ui/ui": "workspace:^",
         "@storybook/addon-docs": "^8.6.14",
         "@storybook/addon-essentials": "^8.1.6",
         "@storybook/addon-interactions": "^8.1.6",
